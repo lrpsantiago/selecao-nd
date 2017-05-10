@@ -3,3 +3,7 @@ C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\Entities\bi
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\Entities\obj\Debug\Entities.dll
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\Entities\obj\Debug\Entities.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Entities\bin\Debug\Entities.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Entities\bin\Debug\Entities.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Entities\obj\Debug\Entities.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Entities\obj\Debug\Entities.pdb

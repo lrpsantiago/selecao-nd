@@ -10,3 +10,15 @@ C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\DAL\bin\Deb
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\DAL\obj\Debug\DAL.dll
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\DAL\obj\Debug\DAL.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\bin\Debug\DAL.dll.config
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\bin\Debug\DAL.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\bin\Debug\DAL.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\bin\Debug\Entities.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\bin\Debug\EntityFramework.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\bin\Debug\Entities.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\bin\Debug\EntityFramework.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\obj\Debug\DAL.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\DAL\obj\Debug\DAL.pdb

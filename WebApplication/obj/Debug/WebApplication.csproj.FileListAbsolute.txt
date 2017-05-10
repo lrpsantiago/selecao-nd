@@ -41,3 +41,46 @@ C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\WebApplicat
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\WebApplication\obj\Debug\WebApplication.dll
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\ApplicationInsights.config
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\csc.exe
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\vbc.exe
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\WebApplication.dll.config
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\WebApplication.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\WebApplication.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Business.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\DAL.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Entities.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\EntityFramework.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Business.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\DAL.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Entities.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\EntityFramework.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\WebApplication\obj\Debug\WebApplication.pdb

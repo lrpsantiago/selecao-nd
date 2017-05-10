@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{28B10CD3-1E32-4787-845D-2733AAC03F13}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{C471B8CB-67D0-4BA4-AA56-9734FBD2560F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{60369352-3C6C-46C2-9D08-F737019CBF30}"
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{28B10CD3-1E32-4787-845D-2733AAC03F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28B10CD3-1E32-4787-845D-2733AAC03F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28B10CD3-1E32-4787-845D-2733AAC03F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28B10CD3-1E32-4787-845D-2733AAC03F13}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C471B8CB-67D0-4BA4-AA56-9734FBD2560F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C471B8CB-67D0-4BA4-AA56-9734FBD2560F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C471B8CB-67D0-4BA4-AA56-9734FBD2560F}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -26,3 +26,31 @@ C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\Business\bi
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\Business\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\Business\bin\Debug\pt-br\System.Web.WebPages.resources.dll
 C:\Users\LuizRicardo\documents\visual studio 2015\Projects\SelecaoND\Business\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\Business.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\Business.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\DAL.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\Entities.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\EntityFramework.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.Razor.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\DAL.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\Entities.pdb
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\EntityFramework.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.Razor.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\obj\Debug\Business.dll
+C:\Users\LuizRicardo\Documents\GitRepo\selecao-nd\Business\obj\Debug\Business.pdb
